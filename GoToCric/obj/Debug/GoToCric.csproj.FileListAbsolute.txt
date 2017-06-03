@@ -1,0 +1,10 @@
+C:\Users\amynam\Documents\PracticeProj\GoToCric\GoToCric\bin\Debug\GoToCric.exe.config
+C:\Users\amynam\Documents\PracticeProj\GoToCric\GoToCric\obj\Debug\GoToCric.Properties.Resources.resources
+C:\Users\amynam\Documents\PracticeProj\GoToCric\GoToCric\obj\Debug\GoToCric.csproj.GenerateResource.Cache
+C:\Users\amynam\Documents\PracticeProj\GoToCric\GoToCric\bin\Debug\GoToCric.exe
+C:\Users\amynam\Documents\PracticeProj\GoToCric\GoToCric\bin\Debug\GoToCric.pdb
+C:\Users\amynam\Documents\PracticeProj\GoToCric\GoToCric\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\amynam\Documents\PracticeProj\GoToCric\GoToCric\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\amynam\Documents\PracticeProj\GoToCric\GoToCric\obj\Debug\GoToCric.Form1.resources
+C:\Users\amynam\Documents\PracticeProj\GoToCric\GoToCric\obj\Debug\GoToCric.exe
+C:\Users\amynam\Documents\PracticeProj\GoToCric\GoToCric\obj\Debug\GoToCric.pdb
